@@ -4,7 +4,7 @@ An experienced Data Scientist and Data Product Manager. I am the Founder of Data
 
 **🔍 Projects:**
 
-- **Content Recommendation Systems:** Developed algorithms to recommend articles, videos, or other content based on user preferences and behavior.
+- **Content Recommendation Systems:** Developed algorithms to recommend articles, videos, or other content based on user preferences and behaviour.
 - **Audience Segmentation:** Segmented audience in different categories for targeted marketing and content personalization.
 - **Sentiment Analysis:** Implemented NLP models to analyze the sentiment of comments, reviews, and social media posts.
 - **Paywall Strategy:** Developed predictive models to identify which users are most likely to subscribe and optimize paywall strategies accordingly.
@@ -19,7 +19,6 @@ An experienced Data Scientist and Data Product Manager. I am the Founder of Data
 - Statistical Analysis
 - Business Intelligence
 - Product Management
-
 
 **🛠️ Tools:**
 
