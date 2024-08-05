@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @Keziah-Kinuthia
-- 👀 I’m interested in Data Analysis for Social Good
-- 🌱 I’m currently honing my skills in climate models, carbon footprint analysis, and lifecycle assessment (LCA).
-- 💞️ I’m looking to collaborate with finance teams to integrate ESG factors into financial analysis and risk assessments.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/keziah-kinuthia-9644b5115/), [Twitter](https://twitter.com/Keziah_Taiya)
-- 😄 Pronouns: She / Her
-- ⚡ Fun fact:  I am an avid writer with [published articles](https://muckrack.com/keziah-kinuthia/articles) in Business Daily and Daily Nation. I am also a Gym Rat
+### Hey👋, I'm Keziah Kinuthia
 
-<!---
-Keziah-Kinuthia/Keziah-Kinuthia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+An experienced Data Scientist and Data Product Manager. I am the Founder of DataWise Analytics. I hold a Master's Degree in Statistics and over 8 years of experience in Data Management across diverse sectors including Media, Banks, and Non-Profit organizations. I am also an avid writer, having published articles in the Business Daily and Daily Nation.
+
+**🔍 Projects:**
+
+- **Content Recommendation Systems:** Developed algorithms to recommend articles, videos, or other content based on user preferences and behavior.
+- **Audience Segmentation:** Segmented audience in different categories for targeted marketing and content personalization.
+- **Sentiment Analysis:** Implemented NLP models to analyze the sentiment of comments, reviews, and social media posts.
+- **Paywall Strategy:** Developed predictive models to identify which users are most likely to subscribe and optimize paywall strategies accordingly.
+- **Credit Scoring Models:** Developed ML models to predict the creditworthiness of customers and improve the accuracy of credit scoring.
+- **Churn Prediction:** Built models to predict customer churn and develop strategies to retain high-value customers.
+- **Predictive Model for Disease Outbreaks:** Built predictive models for Malaria and COVID-19 that helped allocate medical resources accordingly.
+
+**💼 Skills:**
+
+- Predictive Modeling
+- Data Analytics
+- Statistical Analysis
+- Business Intelligence
+- Product Management
+
+
+**🛠️ Tools:**
+
+- **Programming Languages:** Python, R, SQL
+- **Machine Learning & Deep Learning Frameworks:** TensorFlow, Keras, scikit-learn, XGBoost
+- **NLP Libraries:** NLTK, SpaCy, TextBlob
+- **Data Visualization:** Tableau, Power BI
+- **Statistical Software:** SAS
+- **Project Management:** Jira, Asana, Notion, Confluence
+- **Communication:** Slack, Microsoft Teams
+
+**📈 What I’m Currently Working On:**
+
+- Expanding the scope of DataWise Analytics to include advanced analytics solutions for strategic business decisions.
+- Exploring innovations in data science and staying updated with the latest trends and technologies.
+
+**🌐 Connect with Me:**
+
+- [LinkedIn](https://www.linkedin.com/in/keziah-kinuthia-9644b5115/)
+- [Twitter](https://twitter.com/Keziah_Taiya)
+- [Published Articles](https://muckrack.com/keziah-kinuthia/articles)
