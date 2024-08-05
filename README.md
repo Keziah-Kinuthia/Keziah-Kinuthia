@@ -1,4 +1,4 @@
-### Hey👋, I'm Keziah Kinuthia
+### Hi there!👋, I'm Keziah Kinuthia
 
 An experienced Data Scientist and Data Product Manager. I am the Founder of DataWise Analytics. I hold a Master's Degree in Statistics and over 8 years of experience in Data Management across diverse sectors including Media, Banks, and Non-Profit organizations. I am also an avid writer, having published articles in the Business Daily and Daily Nation.
 
