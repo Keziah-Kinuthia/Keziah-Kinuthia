@@ -3,7 +3,7 @@
 An experienced Data Scientist and Data Product Manager. I hold a Master's Degree in Statistics and over 9 years of experience in Data Management across diverse sectors including Media, Banks, and Non-Profit organizations. I am also an avid writer, having published articles in the [Business Daily](https://www.businessdailyafrica.com/) and [Daily Nation](https://nation.africa/kenya).
 
 **📚 Projects:**
-
+-**Water Use Efficiency **among farmers in Laikipia County: Current Ongoing Project
 - 📜 **Content Recommendation Systems:** Developed algorithms to recommend articles, videos, or other content based on user preferences and behavior.
 - 📊 **Audience Segmentation:** Segmented audience in different categories for targeted marketing and content personalization.
 - 💬 **Sentiment Analysis:** Implemented NLP models to analyze the sentiment of comments, reviews, and social media posts.
